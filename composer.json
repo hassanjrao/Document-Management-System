@@ -1,0 +1,7 @@
+{
+    "require": {
+        "cloudmersive/cloudmersive_validate_api_client": "^1.5",
+        "cloudmersive/cloudmersive_document_convert_api_client": "^1.9",
+        "smalot/pdfparser": "^0.16.1"
+    }
+}
